@@ -1,0 +1,19 @@
+name: "All the waymarks NA"
+folderurl: "https://raw.githubusercontent.com/noevain/All-The-Waymarks/master/NA/"
+waymarks:
+  
+  # ==========
+  # = Savage =
+  # ==========
+
+  - name: M1S
+    url: Savage/AAC-Light-heavyweight/m1s.json
+
+  - name: M2S
+    url: Savage/AAC-Light-heavyweight/m2s.json
+
+  - name: M3S
+    url: Savage/AAC-Light-heavyweight/m3s.json
+
+  - name: M4S
+    url: Savage/AAC-Light-heavyweight/m4s.json
